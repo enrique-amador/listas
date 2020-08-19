@@ -1,4 +1,6 @@
 2020/08/19
+youtube-dl -i --get-filename --skip-download --verbose  --flat-playlist https://www.youtube.com/playlist?list=PLn6PjwKWjJv7KpnTHOSZhsFm_xID7B1hE
+---
 Big Blood - Away Pt. III-8eh8DLrjinc.NA
 Flow-nDmKX3lVZRw.NA
 The Deviants (1967) PTOOFF! (full album)-3AkehG9Zh4c.NA
